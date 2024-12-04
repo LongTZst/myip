@@ -1,4 +1,8 @@
 104.19.238.221#FRA1
+104.18.169.222#bitdefender.com
+104.18.168.222#bitdefender.com
+172.64.153.235#products.dtc.tripadvisor.com
+104.18.34.21#products.dtc.tripadvisor.com
 172.64.151.28#ae.hm.com
 104.18.36.228#ae.hm.com
 162.159.130.67#indeed.com
@@ -16,7 +20,7 @@
 104.20.5.134#creativecommons.org
 172.64.153.173#mobile.wealthmanagement.scotiabank.com
 104.18.34.83#mobile.wealthmanagement.scotiabank.com
-104.18.20.178#mobile.wealthmanagement.scotiabank.com
-104.18.21.178#mobile.wealthmanagement.scotiabank.com
 162.159.129.11#investor.salesforce.com
 162.159.130.11#investor.salesforce.com
+104.18.2.12#spboss.in
+104.18.3.12#spboss.in
